@@ -199,12 +199,12 @@ GRC Analyst · Cybersecurity Analyst · MSc Cybersecurity Candidate
 - 🎓 MSc Cybersecurity (in progress)
 - 🏅 Cisco Certified CyberOps Associate
 - 📝 PECB ISO/IEC 27001 Lead Implementer (preparing)
-- 💼 Former IT Security Analyst — Bincom Global, Lagos
+- 💼 Former IT Security Analyst — Bincom Global, Lagos, Nigeria
 - 🔐 SOC Internship — Hybrid Security Consults (2026)
 
-📧 ibijuragbenga@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
-🌐 [Notion Portfolio](https://your-notion-link)
+📧 Samuelibijura@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/samuel-o-ibijura-a1a993221/)
+
 
 ---
 
