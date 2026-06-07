@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="cyropay-isms" name="Page-1">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1"
+      connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169"
+      pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="title" value="CyroPay Ltd ISMS Scope Diagram — ISO/IEC 27001:2022"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontStyle=1;"
+          vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="520" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="isms" value="ISMS Core Scope"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;"
+          vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="240" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="infra" value="Infrastructure &amp; Cloud Services"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;"
+          vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="240" height="70" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="apps" value="Applications &amp; Payment Systems"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;"
+          vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="240" height="70" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="people" value="People, Policies &amp; Processes"
+          style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;"
+          vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="240" height="70" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e1" edge="1" parent="1" source="isms" target="infra">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e2" edge="1" parent="1" source="isms" target="apps">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e3" edge="1" parent="1" source="isms" target="people">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
